@@ -1,0 +1,6 @@
+
+# Rust output
+/target
+
+# Database that I am searching
+/database
